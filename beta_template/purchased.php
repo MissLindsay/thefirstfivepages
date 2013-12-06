@@ -1,0 +1,9 @@
+<div class="previewTitle">Foxes are Silly</div>
+	   <div class="previewAuthor">by Eden Greenamaker</div>
+	   <div class="previewLine">Lorem ipsum dolor sit amet, consectetur adispiscing elit. Vestibulum in ligular quismattis adida toakd tsa...</div>
+	   <div class="previewTitle">The House of Clouds</div>
+	   <div class="previewAuthor">by Malakai Adirondack</div>
+	   <div class="previewLine">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</div>	   
+	   <div class="previewTitle">My Name is Debby</div>
+	   <div class="previewAuthor">by Annabel Horowitz</div>
+	   <div class="previewLine">Pellentesque molestie vulputate magna, a ultricies elit tristique non. Praesent dolor urna, scelerisque porta porttitor ut, viverra tristique justo. In. </div>

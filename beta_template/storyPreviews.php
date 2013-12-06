@@ -1,0 +1,19 @@
+	   <div class="previewTitle">Remember the Mandrakes</div>
+	   <div class="previewAuthor">by Yulian Saangey</div>
+	   <div class="previewLine">Lorem ipsum dolor sit amet, consectetur adispiscing elit. Vestibulum in ligular quismattis adida toakd tsa...</div>
+	   <div class="previewTitle">Once in Japan</div>
+	   <div class="previewAuthor">by Haraki Nisogawa</div>
+	   <div class="previewLine">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</div>	   
+	   <div class="previewTitle">Julianna</div>
+	   <div class="previewAuthor">by Serena Katz</div>
+	   <div class="previewLine">Pellentesque molestie vulputate magna, a ultricies elit tristique non. Praesent dolor urna, scelerisque porta porttitor ut, viverra tristique justo. In. </div>	   
+	   <div class="previewTitle">Severed</div>
+	   <div class="previewAuthor">by Louisa Vega</div>
+	   <div class="previewLine">Integer enim erat, semper nec congue sit amet, mollis ut sapien. Cras iaculis ullamcorper pellentesque. Proin at pellentesque eros, nec.</div>	   
+	   <div class="previewTitle">Jumping Jacks for June</div>
+	   <div class="previewAuthor">by Ginger Mackwell</div>
+	   <div class="previewLine">Nam euismod eu eros at semper. Maecenas auctor tempor dictum. Aliquam sit amet metus velit. Sed ullamcorper elit id neque.</div>	   
+	   <div class="previewTitle">Whose Car is This?</div>
+	   <div class="previewAuthor">by Halley Newman</div>
+	   <div class="previewLine">Integer dictum interdum ante et congue. Duis aliquam ligula id luctus accumsan. Fusce fringilla felis tortor, sed lobortis ipsum interdum. </div>	   
+	   

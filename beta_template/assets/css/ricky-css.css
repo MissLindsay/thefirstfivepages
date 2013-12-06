@@ -1,0 +1,136 @@
+body {
+	padding-top: 0 !important;
+}
+
+#page .navbar .container {
+	width: 100%;
+}
+
+#page .navbar-toggle {
+	display: block;
+	margin-right: 0;
+	
+}
+
+.navbar-header {
+	width: 100%;
+}
+
+#page .navbar-fixed-top {
+	margin-bottom: 10px;
+}
+
+#page .navbar .container .collapse {
+	display: none !important;
+
+}
+
+#main-container {
+	max-height: 505px;
+	overflow: hidden;
+	margin: 0 0 1em 0;
+}
+
+#page {
+	max-width: 450px;
+	margin: 0 auto;
+}
+
+#page > div {
+	max-width: 100%;
+}
+
+.container {
+	text-align: center;
+}
+
+#loading-icon {
+	margin-top: 10%;
+	display: none;
+}
+
+#reader {
+	margin: 0 auto;
+}
+
+#reader h1 {
+	font-size: 1.5em;
+	margin: .2em;
+}
+
+#reader h2 {
+	font-size: 1.3em;
+	margin: 0 0 .5em 0;
+}
+
+#reader .content {
+	text-align: left;
+}
+
+.navbar-fixed-top {
+	position: relative;
+}
+
+.navbar-fixed-bottom {
+	width: 450px;
+	margin: 0 auto;
+}
+
+
+#readingStats {
+    position: relative;
+    display: inline;
+	color:#950000;
+	
+}
+
+.currentTitle {
+    margin-right:10px;
+}
+.titleStats {
+    display:inline-block;
+	text-align:center;
+}
+
+.currentAllTime {
+    font-size:14px;
+}
+
+.readNumbers {
+    font-size:18px;
+}
+
+.titleBars {
+    color:#FFFFFF;
+	background-color:#950000;
+	overflow:hidden;
+	text-align:center;
+}
+
+#previews {
+
+}
+
+.previewTitle {
+    font-size:14px;
+	font-weight:bold;
+}
+
+.previewAuthor {
+    font-size:11px;
+}
+
+.previewLine {
+    font-size:11px;
+
+}
+	
+#accountBasics {
+    text-align:left;
+	display:inline;
+	color:#950000;
+}
+
+.userInfo {
+    display:block;
+}
